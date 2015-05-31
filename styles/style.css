@@ -1,0 +1,29 @@
+@font-face{font-family:'Open Sans',sans-serif}
+@font-face{font-family:'Open Sans Condensed',sans-serif}
+@font-face{font-family:intro_condblack_free;src:url('Intro Cond Black Free-webfont.eot');
+src:url('Intro Cond Black Free-webfont.eot?#iefix') format('embedded-opentype'),
+url('Intro Cond Black Free-webfont.woff2') format('woff2'),
+url('Intro Cond Black Free-webfont.woff') format('woff'),
+url('Intro Cond Black Free-webfont.ttf') format('truetype'),
+url('Intro Cond Black Free-webfont.svg#intro_condblack_free') format('svg');
+font-weight:400;
+font-style:normal}
+body,h1,h2,h3,h4,h5,h6,p {font-family:'Open Sans',sans-serif;-webkit-text-size-adjust:none}
+.globalWrapper {
+	max-width:1920px;
+	min-width:960px;
+	margin:0 auto;
+	position:relative;
+	-webkit-box-shadow:0 0 10px 0 #000;
+	-moz-box-shadow:0 0 10px 0 #000;
+	box-shadow:0 0 10px 0 #000;
+	overflow:hidden;
+	height:auto}
+.resize{
+	position:relative
+	;width:960px;
+	margin:0 auto}
+.cf:after,.cf:before {
+	content:'';
+	display:table}
+.cf:after{clear:both}
