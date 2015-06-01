@@ -691,8 +691,7 @@ label[for=email].error{display:none!important}
 	{width:266px;
 	 height:307px;
 	 position:absolute;
-	 display:block;
-	 background:url(../img/b5-before1.png) center center no-repeat;
+	 display:block;	 
 	 content:'';
 	 top:0;
 	 left:8px}
@@ -700,8 +699,7 @@ label[for=email].error{display:none!important}
 	{width:266px;
 	 height:307px;
 	 position:absolute;
-	 display:block;
-	 background:url(../img/b5-before2.png) center center no-repeat;
+	 display:block;	 
 	 content:'';
 	 top:0;left:8px}
 .useWrapper .circleBlock h3
@@ -913,8 +911,7 @@ label[for=email].error{display:none!important}
 	 color:#fff;
 	 padding:0 80px}
 .garantBlock
-	{background:url(../img/punktir.png) center top no-repeat;
-	 margin-top:18px;
+	{margin-top:18px;
 	 padding-bottom:100px}
 .garantBlock h2
 	{font-size:45px;
@@ -1008,16 +1005,15 @@ label[for=email].error{display:none!important}
 	 text-align:center;
 	 line-height:1;
 	 color:#000;
-	 padding:0 80px}
+	 padding:0 80px;}
 .mapWrapper
-	{background: url(../img/bg_8.jpg) center center no-repeat;
-	 height:544px}
+	{height:544px;}
 #showMap
 	{height:544px!important;position:absolute;
 	 left:50%;
 	 margin-left:-960px;
 	 width:1920px;
-	 z-index:50!important}
+	 z-index:50!important;}
 .mapWrapper h2
 	{font-size:45px;
 	 font-family:intro_condblack_free;
@@ -1029,14 +1025,14 @@ label[for=email].error{display:none!important}
 	 width:100%;
 	 padding-top:50px;
 	 position:absolute;
-	 z-index:51!important}
+	 z-index:51!important;}
 .gm-style-iw+div
-	{display:none!important}
+	{display:none!important;}
 .gm-style-iw
-	{text-align:center}
+	{text-align:center;}
 .shemaWrapper
 	{height:700px;
-	 background:url(../img/bg_9.jpg) center center no-repeat}
+	 background:url(../img/bg_9.jpg) center center no-repeat;}
 .shemaWrapper h2
 	{font-size:45px;
 	 font-family:intro_condblack_free;
