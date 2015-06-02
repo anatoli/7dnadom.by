@@ -258,7 +258,9 @@ input[type=submit]:active{background-position:0 0}
 label[for=email].error{display:none!important}
 .globalFirst
 	{height:1530px;
-	 background:url(../img/bg_1.jpg) center center no-repeat}
+	 background:url(../img/bg_1.jpg) center center no-repeat;
+	 background-size: cover;}
+
 .globalFirst .headerWrapper
 	{height:90px;
 	 width:1920px;
@@ -476,7 +478,8 @@ label[for=email].error{display:none!important}
 	 text-align:center}
 .newProductWrapper
 	{min-height:837px;
-	 background:url(../img/bg_2.jpg) top center no-repeat}
+	 background:url(../img/bg_2.jpg) top center no-repeat;
+	 background-size: cover;}
 .newProductWrapper h2
 	{font-size:40px;
 	 text-align:center;
@@ -578,7 +581,8 @@ label[for=email].error{display:none!important}
 	 height:auto;
 	 padding-bottom:30px;
 	 display:none;
-	 background:url(../img/bg_3.jpg) top center no-repeat}
+	 background:url(../img/bg_3.jpg) top center no-repeat;
+	 background-size: cover;}
 .filmWrapper h2
     {font-size:48px;
 	 font-family:"Open Sans Condensed";
