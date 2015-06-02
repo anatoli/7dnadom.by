@@ -2,9 +2,6 @@
 @font-face{font-family:'Open Sans Condensed',sans-serif}
 @font-face{font-family:intro_condblack_free;src:url('Intro Cond Black Free-webfont.eot');
 src:url('Intro Cond Black Free-webfont.eot?#iefix') format('embedded-opentype'),
-url('Intro Cond Black Free-webfont.woff2') format('woff2'),
-url('Intro Cond Black Free-webfont.woff') format('woff'),
-url('Intro Cond Black Free-webfont.ttf') format('truetype'),
 url('Intro Cond Black Free-webfont.svg#intro_condblack_free') format('svg');
 font-weight:400;
 font-style:normal}
