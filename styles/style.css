@@ -662,7 +662,8 @@ label[for=email].error{display:none!important}
 	 font-weight:700}
 .useWrapper
 	{background:url(../img/bg_5.jpg) center center no-repeat;
-	 height:2058px}
+	 height:2058px;
+	 background-size: cover;}
 .useWrapper h2
 	{font-size:45px;
 	 color:#2D83A3;
