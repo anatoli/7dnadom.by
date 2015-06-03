@@ -9,3 +9,4 @@ User-agent: psbot
 Disallow: /
 User-agent: yahoo-slurp
 Disallow: /
+Sitemap: http://7dnadom.by/Sitemap.xml
