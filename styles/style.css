@@ -788,8 +788,8 @@ label[for=email].error{display:none!important}
 	{background:url(../img/b5-6.png)center center no-repeat;
 	 margin-top:-100px}
 .protfolioWrapper
-	{background:url(../img/bg_7.jpg) center center no-repeat;
-	 height:2331px}
+	{background-color: #fff;
+	 }
 .protfolioWrapper h2
 	{font-size:45px;
 	 font-family:"Open Sans Condensed";
@@ -797,97 +797,13 @@ label[for=email].error{display:none!important}
 	 text-transform:uppercase;
 	 text-align:center;
 	 line-height:1;
-	 margin-top:50px}
-.protfolioWrapper .left
-	{width:442px;
-	 margin-left:38px}
-.protfolioWrapper .item
-	{margin-top:25px}
-.protfolioWrapper .left .big
-	{margin-top:25px;
-	 border:7px solid #2E85A5;
-	 height:420px;
-	 width:411px}
-.protfolioWrapper .left .little
-	{width:430px}
-.protfolioWrapper .owl-controls .owl-prev
-	{position:absolute;
-	width:19px;
-	height:50px;
-	top:250px;
-	left:-20px;
-	display:block;
-	background:url(../img/arr-l.png)center center no-repeat}
-.protfolioWrapper .owl-controls .owl-next
-	{position:absolute;
-	 width:19px;
-	 height:50px;
-	 top:250px;
-	 right:-40px;
-	 display:block;
-	 background:url(../img/arr-r.png)center center no-repeat}
-.protfolioWrapper .left ul li
-	{width:131px;
-	 height:100px;
-	 display:inline;
-	 display:inline-block;
-	 zoom:1;
-	 margin:6px;
-	 margin-top:25px}
-.protfolioWrapper .left a
-	{width:204px;
-	 height:39px;
-	 line-height:39px;
-	 background:url(../img/btn7.png);
-	 background-position:0 -78px;
-	 text-decoration:none;
-	 border:none;
-	 font-size:15px;
-	 text-transform:uppercase;
-	 padding:0;
-	 outline:0;
-	 font-family:intro_condblack_free;
-	 display:block;
-	 color:#fff;
-	 text-align:center;
-	 margin-top:20px}
-.protfolioWrapper .left a:hover
-	{background-position:0 -39px}
-.protfolioWrapper .left a:active
-	{background-position:0 0}
-.protfolioWrapper .left .big2,.protfolioWrapper .left .big22,.protfolioWrapper .left .big3
-	{display:none}
+	 margin-top:50px;
+	 ba}
+
+
 #owl-demo img
 	{width:auto;
 	 height:auto}
-.protfolioWrapper .right
-	{width:450px}
-.protfolioWrapper .right .logo_row
-	{height:60px}
-.protfolioWrapper .right .logo_row img
-	{margin-right:20px}
-.protfolioWrapper .right .logo_row h3
-	{font-size:16px;
-	 font-weight:700;
-	 font-family:"Open Sans Condensed";
-	 line-height:60px;
-	 width:330px}
-.protfolioWrapper .right h4
-	{font-size:22px;
-	 font-weight:700;
-	 font-family:"Open Sans Condensed";
-	 line-height:1.2;
-	 text-transform:uppercase;
-	 padding:0 10px;
-	 background:#2E85A5;
-	 display:block;
-	 margin-top:20px}
-.protfolioWrapper .right h5
-	{font-size:16px;
-	 font-weight:700;
-	 font-family:"Open Sans Condensed";
-	 text-transform:uppercase;
-	 margin:10px 0}
 .downloadBlock
 	{margin-top:100px}
 .downloadBlock form
@@ -1146,7 +1062,7 @@ label[for=email].error{display:none!important}
 	 padding-bottom:11px;
 	 margin-right:179px}
 .footerWrapper
-	{height:170px;}
+	{height:100%;}
 .footerWrapper .upBlock .fll,.footerWrapper .upBlock .flr
 	{width:480px;
 	 margin-top:25px}
@@ -1448,6 +1364,15 @@ a.call_top_up p.footertel
 	{background:url(../img/b5-check2.png) left center no-repeat;
 	 width:14px;
 	 height:13px;
-	 display:block}
+	 display:block;}
 .f4vis
 	{display: block;}
+.textShadowBlack
+	{
+		text-shadow: #000 1px 1px 0, #000 -1px -1px 0, #000 -1px 1px 0, #000 1px -1px 0;
+	}
+.dopPading{	
+	padding-left: 200px;
+}
+
+
